@@ -1,6 +1,6 @@
 """
 Brute Force Password Cracking Demo
-Author: Your Name
+Author: aNSEES
 Purpose: Educational cybersecurity project
 
 This script demonstrates how brute-force attacks work
