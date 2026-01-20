@@ -1,5 +1,5 @@
 """
-Brute Force Password Cracking 
+Brute Force Password 
 Author: Ansees
 Purpose: Educational cybersecurity project
 
